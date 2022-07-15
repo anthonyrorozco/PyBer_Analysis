@@ -13,7 +13,8 @@ Rural communities have the fewest drivers, rides, and overall fares. The most dr
 
 ## Chart: Total Fare by City Type
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/105666905/179148642-99962abf-3370-435b-8cf2-10575bb683de.png)
+![Pyber_linegraph](https://user-images.githubusercontent.com/105666905/179150128-54cd5f5a-8c87-4e18-b992-21dd4367fc03.png)
+
 
 ## Summary
 
